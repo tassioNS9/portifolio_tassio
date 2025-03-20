@@ -7,3 +7,17 @@ npm i -g @nestjs/cli ==> comando para instalar o nest
 nest new backend ==> comando para criar a pasta backend e selecionar npm
 
 "start:dev": "nest start --watch --entryFile backend/src/main", --> comando no package.json para reconhecer a variavel do core na pasta dist
+
+==========Comandos Nest ================
+
+nest g module db ==> vai criar uma pasta e vai registar no app.module.ts
+
+nest g module projeto ==> vai criar uma pasta e vai registar no app.module.ts
+
+nest g module tecnologia ==> vai criar uma pasta e vai registar no app.module.ts
+
+dentro da pasta /src/db ( nest g pr prisma.provider --no-spec --flat ) ==> criar o prisma.provider na pasta db
+
+dentro da pasta /src/tecnologia ( nest g co tecnologia --no-spec --flat ) 
+
+dentro da pasta /src/tecnologia (nest g pr tecnologia.provider --no-spec --flat
