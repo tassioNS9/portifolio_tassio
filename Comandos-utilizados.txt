@@ -1,0 +1,9 @@
+npm init -y ==> Para criar o arquivo .json
+
+senha supabase: 8Qr82ttJWwY4cnAh
+
+npm i -g @nestjs/cli ==> comando para instalar o nest
+
+nest new backend ==> comando para criar a pasta backend e selecionar npm
+
+"start:dev": "nest start --watch --entryFile backend/src/main", --> comando no package.json para reconhecer a variavel do core na pasta dist
