@@ -1,0 +1,7 @@
+POST https://tassions.app.n8n.cloud/webhook-test/assistente-pessoal
+Content-Type: application/json
+
+{
+    "chatId":"123456",
+    "menssagem":"Bom dia"
+}
