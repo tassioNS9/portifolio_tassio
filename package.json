@@ -1,0 +1,20 @@
+{
+  "name": "portifolio_tassio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx concurrently \"cd backend && npm run start:dev\" \"cd frontend && npm run dev\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tassioNS9/portifolio_tassio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tassioNS9/portifolio_tassio/issues"
+  },
+  "homepage": "https://github.com/tassioNS9/portifolio_tassio#readme",
+  "description": ""
+}

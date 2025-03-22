@@ -21,3 +21,7 @@ dentro da pasta /src/db ( nest g pr prisma.provider --no-spec --flat ) ==> criar
 dentro da pasta /src/tecnologia ( nest g co tecnologia --no-spec --flat ) 
 
 dentro da pasta /src/tecnologia (nest g pr tecnologia.provider --no-spec --flat
+
+====== fRONTEND ===========
+
+npx create-next-app@latest frontend ==> criar projeto next com a pasta frontend
